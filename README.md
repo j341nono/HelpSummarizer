@@ -31,7 +31,7 @@ helpsummarizer --command grep --model /path/to/model.gguf
 
 - Use a Hugging Face model
 ```bash
-helpsummarizer --command ls --model microsoft/DialoGPT-medium --filename pytorch_model.bin
+helpsummarizer --command ls --model hugging-quants/Llama-3.2-3B-Instruct-Q4_K_M-GGUF --filename llama-3.2-3b-instruct-q4_k_m.gguf
 ```
 
 ## Configuration Options
