@@ -7,7 +7,7 @@ It is designed to provide concise, readable summaries to help users quickly unde
 ## Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/j341nono/LLMGusser/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/j341nono/HelpSummarizer/main/install.sh | bash
 ```
 
 ## Usage
