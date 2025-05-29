@@ -1,6 +1,6 @@
 # HelpSummarizer
 
-A command-line tool that uses AI to generate concise, readable summaries of shell command help output. Perfect for quickly understanding complex command usage without parsing lengthy documentation.
+**HelpSummarizer** is a command-line tool that uses AI to generate concise, readable summaries of shell command help output. Perfect for quickly understanding complex command usage without parsing lengthy documentation.
 
 ## Features
 
